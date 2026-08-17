@@ -31,8 +31,7 @@ The project uses:
 
 - **Streamlit** — Web interface
 - **CrewAI** — AI agent and task orchestration
-- **Ollama** — Local LLM runtime
-- **Gemma 2** — Language model
+- **Gemini** — LLM runtime
 - **Python** — Application development
 
 ## Project Structure
@@ -54,6 +53,10 @@ email-assistant/
 
 
 ---
+```
+
+---
+
 # ⚙️ Installation
 
 ## 1. Clone the Repository
@@ -63,7 +66,6 @@ git clone https://github.com/msangeeth28/crewai-email-assistant.git
 
 cd crewai-email-assistant
 ```
-
 ---
 
 ## 2. Create a Virtual Environment
