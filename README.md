@@ -1,6 +1,6 @@
-# EmailCraft AI
+# Email Polishing Agent
 
-EmailCraft AI is an AI-powered email rewriting assistant that transforms rough, informal, or poorly structured emails into clear, professional, natural-sounding messages.
+Email Polishing Agent is an AI-powered email rewriting assistant that transforms rough, informal, or poorly structured emails into clear, professional, natural-sounding messages.
 
 The application preserves the original intent and facts while improving grammar, structure, clarity, readability, and tone.
 
@@ -20,7 +20,7 @@ The application preserves the original intent and facts while improving grammar,
 ## How It Works
 
 1. Enter or paste a rough email.
-2. EmailCraft AI analyzes the intended message.
+2. Email Polishing Agent analyzes the intended message.
 3. The AI improves the email's grammar, structure, clarity, and tone.
 4. The polished email is displayed alongside the original.
 5. Copy the polished email or download it as a `.txt` file.
