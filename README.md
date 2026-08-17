@@ -62,9 +62,9 @@ email-assistant/
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/msangeeth28/crewai-email-assistant.git
+git clone https://github.com/palaparthishanmuk2/email-polishing-agent.git
 
-cd crewai-email-assistant
+cd email-polishing-agent
 ```
 ---
 
